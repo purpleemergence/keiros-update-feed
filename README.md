@@ -1,2 +1,2 @@
 # keiros-update-feed
-For instal
+For install
