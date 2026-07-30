@@ -1,5 +1,5 @@
 {
-  "version": "0.3.3",
-  "url": "https://github.com/purpleemergence/keiros-mobile-demo/releases/download/keiros-latest/keiros-0.3.3.apk",
-  "notes": "Ajout du cinquième soutien Mécène avec montant libre et petite entité extraterrestre entourée d’étoiles jaunes. Le vocabulaire évolue vers la conception augmentée."
+  "version": "0.4.0",
+  "url": "https://github.com/purpleemergence/keiros-mobile-demo/releases/download/keiros-latest/keiros-0.4.0.apk",
+  "notes": "Ajout des catégories et de la modification des opérations. Le Mécène adopte une signature magique universelle composée d’un grand éclat jaune et de deux petits éclats jaune et bleu. Les correctifs clavier, navigation et mise à jour de la 0.3.3 sont conservés."
 }
