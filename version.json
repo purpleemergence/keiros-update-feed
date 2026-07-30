@@ -1,5 +1,5 @@
 {
-  "version": "0.3.1",
-  "url": "https://github.com/purpleemergence/keiros-mobile-demo/releases/download/keiros-latest/keiros-0.3.1.apk",
-  "notes": "Correction du crash Android au lancement. Coffre local AES-256-GCM, clé protégée par Android Keystore et dépendances Expo 57 alignées."
+  "version": "0.3.2",
+  "url": "https://github.com/purpleemergence/keiros-mobile-demo/releases/download/keiros-latest/keiros-0.3.2.apk",
+  "notes": "Interface Android corrigée : formulaire d’opération visible avec le clavier, navigation placée au-dessus des boutons système et contrôle de mise à jour accessible depuis l’accueil."
 }
