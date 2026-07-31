@@ -1,5 +1,5 @@
 {
-  "version": "0.5.0",
-  "url": "https://github.com/purpleemergence/keiros-mobile-demo/releases/download/keiros-latest/keiros-0.5.0.apk",
-  "notes": "Français et English dans toute l’interface. La langue du téléphone est détectée au premier lancement, puis le choix reste modifiable dans Plus / More. Nouvelle identité de contribution « Donner de l’élan à Keiros / Give Keiros momentum », signée Elyo Venn."
+  "version": "0.6.0",
+  "url": "https://github.com/purpleemergence/keiros-mobile-demo/releases/download/keiros-latest/keiros-0.6.0.apk",
+  "notes": "Import bancaire CSV local et adaptatif : reconnaissance des colonnes même si leurs noms ou positions changent, aperçu avant validation, chiffrement en une seule opération, détection des doublons, mémorisation sécurisée des formats et suppression de la copie temporaire."
 }
