@@ -1,5 +1,5 @@
 {
-  "version": "0.4.0",
-  "url": "https://github.com/purpleemergence/keiros-mobile-demo/releases/download/keiros-latest/keiros-0.4.0.apk",
-  "notes": "Ajout des catégories et de la modification des opérations. Le Mécène adopte une signature magique universelle composée d’un grand éclat jaune et de deux petits éclats jaune et bleu. Les correctifs clavier, navigation et mise à jour de la 0.3.3 sont conservés."
+  "version": "0.5.0",
+  "url": "https://github.com/purpleemergence/keiros-mobile-demo/releases/download/keiros-latest/keiros-0.5.0.apk",
+  "notes": "Français et English dans toute l’interface. La langue du téléphone est détectée au premier lancement, puis le choix reste modifiable dans Plus / More. Nouvelle identité de contribution « Donner de l’élan à Keiros / Give Keiros momentum », signée Elyo Venn."
 }
