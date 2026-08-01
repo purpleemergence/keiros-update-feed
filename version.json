@@ -1,5 +1,6 @@
 {
-  "version": "0.6.0",
-  "url": "https://github.com/purpleemergence/keiros-mobile-demo/releases/download/keiros-latest/keiros-0.6.0.apk",
-  "notes": "Import bancaire CSV local et adaptatif : reconnaissance des colonnes même si leurs noms ou positions changent, aperçu avant validation, chiffrement en une seule opération, détection des doublons, mémorisation sécurisée des formats et suppression de la copie temporaire."
+  "version": "0.7.0",
+  "url": "https://github.com/purpleemergence/keiros-mobile-demo/releases/download/keiros-latest/keiros.apk",
+  "sha256": "1fee0ed84a895d6194370c3dd47b3ab40351bd0179620ee39abef9fe276373de",
+  "notes": "Catégorisation locale apprenante : Keiros mémorise dans le coffre chiffré les corrections de catégories et peut les appliquer aux opérations similaires, sans envoyer les données vers un serveur."
 }
