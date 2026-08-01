@@ -1,6 +1,6 @@
 {
-  "version": "0.7.0",
+  "version": "0.8.1",
   "url": "https://github.com/purpleemergence/keiros-mobile-demo/releases/download/keiros-latest/keiros.apk",
-  "sha256": "1fee0ed84a895d6194370c3dd47b3ab40351bd0179620ee39abef9fe276373de",
-  "notes": "Catégorisation locale apprenante : Keiros mémorise dans le coffre chiffré les corrections de catégories et peut les appliquer aux opérations similaires, sans envoyer les données vers un serveur."
+  "sha256": "6ac8a4019156d234551b2eb139a6b69eda982630b4d9d1daacf66c0cf2177b22",
+  "notes": "Frais fixes détectés, import CSV Android débloqué, catégories apprenantes visibles et installation des prochaines mises à jour directement depuis Keiros."
 }
