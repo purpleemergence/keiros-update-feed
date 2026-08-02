@@ -1,6 +1,6 @@
 {
-  "version": "0.9.0",
-  "url": "https://github.com/purpleemergence/keiros-mobile-demo/releases/download/keiros-latest/keiros.apk",
-  "sha256": "518cf2fd41beb5905b14007af71e5c88f4eefd7b38610e026bc10ad0621683b9",
-  "notes": "Règles apprises visibles, catégories personnalisées, navigation mensuelle, prévisions des frais fixes et mise à jour directement dans Keiros."
+  "version": "0.10.0",
+  "url": "https://github.com/purpleemergence/keiros-update-feed/releases/download/keiros-latest/keiros.apk",
+  "sha256": "d4005754a2ef55752f1a604499ca3de98e4e2dd65f21d1e488fa9336632a044e",
+  "notes": "Mise à jour Keiros 0.10.0 disponible directement dans l’application."
 }
