@@ -1,6 +1,6 @@
 {
-  "version": "0.8.1",
+  "version": "0.9.0",
   "url": "https://github.com/purpleemergence/keiros-mobile-demo/releases/download/keiros-latest/keiros.apk",
-  "sha256": "6ac8a4019156d234551b2eb139a6b69eda982630b4d9d1daacf66c0cf2177b22",
-  "notes": "Frais fixes détectés, import CSV Android débloqué, catégories apprenantes visibles et installation des prochaines mises à jour directement depuis Keiros."
+  "sha256": "518cf2fd41beb5905b14007af71e5c88f4eefd7b38610e026bc10ad0621683b9",
+  "notes": "Règles apprises visibles, catégories personnalisées, navigation mensuelle, prévisions des frais fixes et mise à jour directement dans Keiros."
 }
