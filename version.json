@@ -1,6 +1,6 @@
 {
-  "version": "0.12.0",
+  "version": "0.13.0",
   "url": "https://github.com/purpleemergence/keiros-update-feed/releases/download/keiros-latest/keiros.apk",
-  "sha256": "143c73c4fb4d6f1ee88c9c9d7c707ba19ed770c2f1a6d783fc5d346cb8df82cc",
-  "notes": "Mise à jour Keiros 0.12.0 disponible directement dans l’application."
+  "sha256": "19016945b39f0569f75abb50ac4e58505794e5d25a022e65c47b2751e37fba3a",
+  "notes": "Mise à jour Keiros 0.13.0 disponible directement dans l’application."
 }
